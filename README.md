@@ -7,11 +7,11 @@ This Python script implements a simple dice game called "7 Up 7 Down." Players b
 Lucky 7: Bet that the sum of the dice will be exactly 7.
 Players start with a certain amount of money, and their balance is updated based on their bets and outcomes. The game includes prompts for re-betting and handling insufficient funds, providing an interactive experience.
 
-Features
+#Features
 Simple betting mechanics with real-time feedback.
 Includes fun animations using time.sleep() for suspense.
 Option to withdraw money when the player runs out.
 
-How to Run
+#How to Run:-
 Clone the repository.
 Run the script using Python.
